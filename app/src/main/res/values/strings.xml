@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Quiz app</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="question1">How do you declare null able variable in Kotlin?</string>
+    <string name="q1_option1">var a: String = \"interview\"</string>
+    <string name="q1_option2">var a: String? = \"interview\"</string>
+    <string name="q1_option3">lateinit var a :String</string>
+    <string name="question2">What are the various data types available in Kotlin?</string>
+    <string name="q2_option1">Boolean</string>
+    <string name="q2_option2">Character</string>
+    <string name="q2_option3">int</string>
+    <string name="reset">Reset</string>
+    <string name="submit">Submit</string>
+</resources>
